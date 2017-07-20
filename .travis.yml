@@ -7,8 +7,5 @@ cache:
   directories:
     - "node_modules"
 
-before_script:
-  - npm install -g npm@5.0.3
-
 script:
   - npm test
