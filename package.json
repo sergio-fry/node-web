@@ -1,0 +1,27 @@
+{
+  "name": "node-web",
+  "version": "0.0.1",
+  "description": "",
+  "main": "example_server.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergio-fry/node-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergio-fry/node-web/issues"
+  },
+  "homepage": "https://github.com/sergio-fry/node-web#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0",
+    "jasmine-node": "^1.14.5",
+    "request": "^2.81.0"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
